@@ -19,9 +19,8 @@
   "javascript.suggest.autoImports": false,
   "editor.suggest.snippetsPreventQuickSuggestions": false,
   "editor.suggest.filterGraceful": false,
-  "editor.lineNumbers": "off",
+  "editor.lineNumbers": "on",
   "problems.decorations.enabled": false,
-  "workbench.activityBar.visible": false,
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "zenMode.centerLayout": false,
@@ -30,4 +29,5 @@
   "editor.glyphMargin": false,
   "typescript.validate.enable": false,
   "javascript.validate.enable": false,
+  "workbench.activityBar.location": "side",
 }
